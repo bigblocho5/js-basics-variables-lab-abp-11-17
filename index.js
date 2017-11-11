@@ -1,5 +1,4 @@
 // Code your solution in this file!
 let companyName = 'Scuber';
 let mostProfitableNeighborhood = 'Chelsea';
-let companyCeo = 'Susan Smith';
-let companyName = 'No';
+let companyCeo = 'Susan Smith'
